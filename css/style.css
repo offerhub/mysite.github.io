@@ -202,6 +202,15 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
     background: #ff8831;
     color: white;
 }
+.logo-span-1{
+    color: blue;
+}
+.logo-span-2{
+    color: #ed143d;
+}
+.sorry{
+    color: red;
+}
 
 
 
