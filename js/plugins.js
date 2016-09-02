@@ -20,5 +20,9 @@
         }
     }
 }());
+setTimeout(function() {
+	
+   location.reload();
+}, 10000);
 
 // Place any jQuery/helper plugins in here.
